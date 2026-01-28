@@ -14,13 +14,13 @@ Array.prototype.myReduce=function(callback,initialValue){
   let startIndex;
 
   if (initialValue !== undefined) {
-  startIndex = 0;  // If initial provided, start from 0
+  startIndex = 0;  // If Initial provided, start from 0
 } else {
   startIndex = 1;  // Else, skip first element (start from 1)
 }
   
   if (initialValue !== undefined) {
-    accumulator = initialValue;  // If initial provided, use it
+    accumulator = initialValue;  // If Initial provided, use it
   } else {
     accumulator = this[0];  // Else, use first element
   }
