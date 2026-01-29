@@ -3,13 +3,15 @@
 I will be Pushing code that i haved learned daily to enchance my full stack skills 
 
 
-ALl topics will here 
-Day 1- 
-learned Advanced JS concepts ( stack frame, stack overflow )
-Again started DSA after 7 months (revising basics)
+ALl topics will here -
 
-Day -2 
-Learned Event Loop queues async tasks, Promises handle futures, async/await simplifies flow
 
-Day - 3
-Learned about Polyfill for Array ( .map[] , reduce )
+Day 1: Call Stack & Recursion – Stack frames, infinite loops, base cases. Fixed crashes.
+
+Day 2: Async/Event Loop – Promises, setTimeout, async/await. Simulated API calls.
+
+Day 3: Array Polyfills – Re-wrote .map()/.reduce() with loops. Callbacks, accumulators.
+
+Day 4: HTTP Module – Raw Node.js server. Requests/responses, JSON, routing.
+
+
